@@ -41,4 +41,10 @@ If you are curious as to how the data was collected, please refer to the [source
     - Career titles: 74
     - Best ranking: 1
     - Ranking at tournament: 1 (5th of November 2018)
+    
+ ## Result:
+ ### Winner:
+     - Novak Djokovic
+ ### Score:
+     - 6-3, 6-2, 6-3
 

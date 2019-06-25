@@ -13,6 +13,7 @@ The data consists of all points played in the match. It is build hierarchically 
     - **Serves:** For each successful serve, which was no failure, the position of the serve in the service box was recorded (whenever possible)
     
 Figure 1:
+
 ![alt text](https://www.dropbox.com/s/gakg677f0uvhmb2/Screenshot%202019-03-02%2021.44.11.png?raw=1)
     
 The x & y coordinates represents a tennis court like [Figure 1](https://www.dropbox.com/s/gakg677f0uvhmb2/Screenshot%202019-03-02%2021.44.11.png?raw=1)
